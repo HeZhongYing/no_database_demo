@@ -10,7 +10,7 @@ import java.io.Serial;
 /**
  * 用户实体
  *
- * @author hezy
+ * @author hezhongying
  * @version 1.0.0
  * @create 2026/2/4 21:40
  */

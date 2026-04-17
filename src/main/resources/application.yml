@@ -13,4 +13,13 @@ spring:
 # 2：应用自定义配置
 app:
   data:
-    file-path: data/users.xlsx
+    # 用户数据文件路径
+    user-path: data/users.xlsx
+    # 角色数据文件路径
+    role-path: data/roles.xlsx
+    # 权限数据文件路径
+    permission-path: data/permissions.xlsx
+    # 用户角色关系数据文件路径
+    user-role-path: data/user_roles.xlsx
+    # 角色权限关系数据文件路径
+    role-permission-path: data/role_permissions.xlsx
