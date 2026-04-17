@@ -37,3 +37,8 @@ build/
 ### Mac OS ###
 .DS_Store
 /.idea/
+
+### Data files ###
+data/
+*.xlsx
+*.xls
